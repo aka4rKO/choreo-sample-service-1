@@ -1,7 +1,7 @@
 version: 0.1
 endpoints:
-- name: Greet API
-  port: 3000
+- name: Greet EndAPI
+  port: 8080
   type: REST
   networkVisibility: Public
   context: /
