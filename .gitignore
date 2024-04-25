@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Build output
+build/
+dist/
+out/
+
+# Coverage reports
+coverage/
+
+# Test output
+.nyc_output/
+
+# IDE and editor files
+.idea/
+.vscode/
+.eslintcache
+.stylelintcache
+
+# Temporary files
+tmp/
+
+# dotenv environment files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Optional: npm cache
+.npm
+
+# Optional: yarn cache
+.yarn-cache
+
+# Optional: REPL history
+.node_repl_history
+
+# Specific build tool outputs
+# (adjust based on your chosen tools)
+next.config.js
+parcel-manifest.json
+# ...
+
+# Database files (if applicable)
+.db*
+*.db
+
+# Any other file or folder you want to exclude
+logs/
+scripts/
